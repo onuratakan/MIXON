@@ -1,0 +1,48 @@
+[submodule "doser/GoldenEye"]
+	path = doser/GoldenEye
+	url = https://github.com/jseidl/GoldenEye
+[submodule "doser/LITEDDOS"]
+	path = doser/LITEDDOS
+	url = https://github.com/4L13199/LITEDDOS
+[submodule "doser/Planetwork-DDOS"]
+	path = doser/Planetwork-DDOS
+	url = https://github.com/Hydra7/Planetwork-DDOS
+[submodule "scanizen/admin-panel-finder"]
+	path = scanizen/admin-panel-finder
+	url = https://github.com/bdblackhat/admin-panel-finder
+[submodule "scanizen/Breacher"]
+	path = scanizen/Breacher
+	url = https://github.com/s0md3v/Breacher
+[submodule "scanizen/nikto"]
+	path = scanizen/nikto
+	url = https://github.com/sullo/nikto
+[submodule "scanizen/routersploit"]
+	path = scanizen/routersploit
+	url = https://github.com/threat9/routersploit
+[submodule "scanizen/sqlmap"]
+	path = scanizen/sqlmap
+	url = https://github.com/sqlmapproject/sqlmap
+[submodule "scanizen/XSS-LOADER"]
+	path = scanizen/XSS-LOADER
+	url = https://github.com/capture0x/XSS-LOADER
+[submodule "scanizen/XSSCon"]
+	path = scanizen/XSSCon
+	url = https://github.com/menkrep1337/XSSCon
+[submodule "scanizenn/Striker"]
+	path = scanizenn/Striker
+	url = https://github.com/s0md3v/Striker
+[submodule "scanizen/HatCloud"]
+	path = scanizen/HatCloud
+	url = https://github.com/HatBashBR/HatCloud
+[submodule "scanizen/Striker"]
+	path = scanizen/Striker
+	url = https://github.com/s0md3v/Striker
+[submodule "scanizen/ScanQLi"]
+	path = scanizen/ScanQLi
+	url = https://github.com/bambish/ScanQLi
+[submodule "doser/hulk"]
+	path = doser/hulk
+	url = https://github.com/grafov/hulk
+[submodule "scanizen/WPSeku"]
+	path = scanizen/WPSeku
+	url = https://github.com/m4ll0k/WPSeku
