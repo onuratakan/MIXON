@@ -1,4 +1,4 @@
-# MIXON | [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/onuratakan/mixon/blob/master/LICENSE)
+# MIXON | [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/onuratakan/MIXON/blob/master/LICENSE)
 ![MIXON](https://repository-images.githubusercontent.com/323142161/848fba00-5d0a-11eb-83e5-a771be6c3998)
 
 # Introducing
